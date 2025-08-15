@@ -1,0 +1,112 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Condicional",
+            "request": "launch",
+            "mainClass": "Condicional",
+            "projectName": "Treino_JAVA_8fdcd76d"
+        },
+        {
+            "type": "java",
+            "name": "dolar",
+            "request": "launch",
+            "mainClass": "dolar",
+            "projectName": "Treino_JAVA_8fdcd76d"
+        },
+        {
+            "type": "java",
+            "name": "produto",
+            "request": "launch",
+            "mainClass": "produto",
+            "projectName": "Treino_JAVA_8fdcd76d"
+        },
+        {
+            "type": "java",
+            "name": "letra",
+            "request": "launch",
+            "mainClass": "letra",
+            "projectName": "Treino_JAVA_8fdcd76d"
+        },
+        {
+            "type": "java",
+            "name": "casting",
+            "request": "launch",
+            "mainClass": "casting",
+            "projectName": "Treino_JAVA_8fdcd76d"
+        },
+        {
+            "type": "java",
+            "name": "notas",
+            "request": "launch",
+            "mainClass": "notas",
+            "projectName": "Treino_JAVA_8fdcd76d"
+        },
+        {
+            "type": "java",
+            "name": "convert",
+            "request": "launch",
+            "mainClass": "convert",
+            "projectName": "Treino_JAVA_8fdcd76d"
+        },
+        {
+            "type": "java",
+            "name": "aula2",
+            "request": "launch",
+            "mainClass": "aula2",
+            "projectName": "Treino_JAVA_8fdcd76d"
+        },
+        {
+            "type": "java",
+            "name": "multiplicacao",
+            "request": "launch",
+            "mainClass": "multiplicacao",
+            "projectName": "Treino_JAVA_8fdcd76d"
+        },
+        {
+            "type": "java",
+            "name": "Estudos",
+            "request": "launch",
+            "mainClass": "Estudos",
+            "projectName": "Treino_JAVA_8fdcd76d"
+        },
+        {
+            "type": "java",
+            "name": "Subtracao",
+            "request": "launch",
+            "mainClass": "Subtracao",
+            "projectName": "Treino_JAVA_8fdcd76d"
+        },
+        {
+            "type": "java",
+            "name": "Soma",
+            "request": "launch",
+            "mainClass": "Soma",
+            "projectName": "Treino_JAVA_8fdcd76d"
+        },
+        {
+            "type": "java",
+            "name": "Perfil",
+            "request": "launch",
+            "mainClass": "Perfil",
+            "projectName": "Treino_JAVA_8fdcd76d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "aula1",
+            "request": "launch",
+            "mainClass": "aula1",
+            "projectName": "Treino_JAVA_8fdcd76d"
+        }
+    ]
+}
