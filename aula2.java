@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class aula2 {
     public static void main(String[] args) {
         System.out.println("Esse é o Screen Match");
@@ -52,11 +54,31 @@ class Condicional {
 
 
         if (anoDeLancamento >= 2022) {
-            System.out.println("Lançamentos que oo cliente esta curtindo! ");
+            System.out.println("Lançamentos que os cliente esta curtindo! ");
         }else {
             System.out.println("Filme retro que vale a pensa assistis! ");
         }
 
-        if(incluidoNoPlano == true || tipoPlano.equals("PLUS"));
+        if(incluidoNoPlano == true && tipoPlano.equals("PLUS")){
+            System.out.println("Filme liberado");
+        } else {
+            System.out.println("Deve pagar a locação");
+        }    
+    
+    }
+}
+
+class leitura {
+    public static void main(String[] args) {
+        Scanner leitura = new Scanner(System.in);
+
+        System.out.println("Digite seu filme favorito: ");
+        String filme = leitura.nextLine();
+        System.out.println(filme);
+        System.out.println("Qual o ano de nascimento");
+
+        int anoDeLancamento = leitura.nextInt();
+
+
     }
 }
